@@ -1,0 +1,7 @@
+Useful resources on R Markdown
+R Markdown quick tour by Posit (RStudio): https://rmarkdown.rstudio.com/authoring_quick_tour.html
+R markdown Cheatsheet: https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
+producing Reports with knitr (R for reproducible Research)  https://ytakemon.github.io/2019-10-22-R-BCCRC/15-knitr-markdown/ 
+A complete course on R markdown by Posit (RStudio): https://rmarkdown.rstudio.com/lesson-1.html
+This chapter of “R for Data Science” (2017)
+by Hadley Wickham & Garrett Grolemund  provides very good (and short) introduction!
